@@ -42,6 +42,6 @@ To get started with Web3Market, follow these steps:
 
 ## Acknowledgments
 
-I would like to express our gratitude to the open-source community for their valuable contributions and the developers behind the technologies i utilize in this project.
+I would like to express my gratitude to the open-source community for their valuable contributions and the developers behind the technologies i utilize in this project.
 
 Happy Learning!!
